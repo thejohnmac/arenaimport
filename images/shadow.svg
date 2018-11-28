@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1036px" height="16px" viewBox="0 0 1036 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50.5207658%" cy="0%" fx="50.5207658%" fy="0%" r="50%" id="radialGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.100000001">
+        <g id="Desktop-HD" transform="translate(-202.000000, -185.000000)" fill="url(#radialGradient-1)">
+            <rect id="Rectangle-7" x="202.058594" y="185" width="1035.88281" height="32"></rect>
+        </g>
+    </g>
+</svg>

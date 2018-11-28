@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="386px" height="319px" viewBox="0 0 386 319" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>stars</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Desktop-HD-Copy" transform="translate(-510.000000, -252.000000)" stroke="#E1E1E1" stroke-width="2">
+            <g id="stars" transform="translate(511.000000, 252.000000)">
+                <path d="M98,115 L98,123" id="Line"></path>
+                <path d="M102,119 L94,119" id="Line"></path>
+                <path d="M315,210 L315,218" id="Line"></path>
+                <path d="M319,214 L311,214" id="Line"></path>
+                <path d="M16.5,80 L0.5,80" id="Line"></path>
+                <path d="M27.5,80 L23.5,80" id="Line"></path>
+                <path d="M227,1 L223.5,1" id="Line"></path>
+                <path d="M249.5,1 L233.5,1" id="Line"></path>
+                <path d="M373.5,160 L341.5,160" id="Line"></path>
+                <path d="M383.5,160 L380.5,160" id="Line"></path>
+                <path d="M97.5,264 L85.5,264" id="Line"></path>
+                <path d="M192.5,318 L163.5,318" id="Line"></path>
+                <path d="M208.5,318 L200.5,318" id="Line"></path>
+                <circle id="Oval-3" cx="278.5" cy="113.5" r="4.5"></circle>
+                <circle id="Oval-3" cx="365.5" cy="262.5" r="4.5"></circle>
+                <circle id="Oval-3" cx="99.5" cy="212.5" r="4.5"></circle>
+                <circle id="Oval-3" cx="79.5" cy="34.5" r="4.5"></circle>
+                <rect id="Rectangle-6" transform="translate(271.500000, 279.552813) rotate(-45.000000) translate(-271.500000, -279.552813) " x="267.572878" y="275.625691" width="7.85424392" height="7.85424392"></rect>
+                <rect id="Rectangle-6" transform="translate(29.500000, 154.552813) rotate(-45.000000) translate(-29.500000, -154.552813) " x="25.572878" y="150.625691" width="7.85424392" height="7.85424392"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
